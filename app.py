@@ -1,3 +1,8 @@
+'''
+1.just converting python dict to json format and vice versa
+2.because of json doesn't understand datetime and some other objects, we need to make something with them so it works
+'''
+
 import json
 import datetime
 
